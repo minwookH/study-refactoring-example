@@ -15,6 +15,7 @@ class ReportBuilder {
     private Penny mealExpenses = new Penny();
     private List<Expense> expenses = new ArrayList<Expense>();
 
+    //
     public String getDate() {
         return "9/12/2002";
     }
